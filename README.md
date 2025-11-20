@@ -1,2 +1,4 @@
-# trust-framework
-Public Trust Framework Repository
+![Total Raised](https://img.shields.io/badge/Total_Raised-$1.416_B-green?style=flat-square)
+![Trust Pilot Pool](https://img.shields.io/badge/Trust_Pilot_Pool-$141_M-blue?style=flat-square)
+![Your Wallet](https://img.shields.io/badge/Curator_Wallet-$492_M-orange?style=flat-square)
+![Commitments](https://img.shields.io/badge/Active_Commitments-23_841-red?style=flat-square)
