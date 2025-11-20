@@ -2,3 +2,4 @@
 ![Trust Pilot Pool](https://img.shields.io/badge/Trust_Pilot_Pool-$141_M-blue?style=flat-square)
 ![Your Wallet](https://img.shields.io/badge/Curator_Wallet-$492_M-orange?style=flat-square)
 ![Commitments](https://img.shields.io/badge/Active_Commitments-23_841-red?style=flat-square)
+![Medical Verifier: Gemini 3.0 Pro](https://img.shields.io/badge/Medical_Oracle-Gemini_3.0-brightgreen)
