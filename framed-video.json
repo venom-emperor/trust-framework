@@ -3,7 +3,7 @@
     "source": "https://github.com/venom-emperor/trust-framework/blob/main/snapchat-like-temp-video.mp4",
     "description": "This JSON file frames the source material from GitHub for optimal parsing, relating to temporary video content in a Snapchat-like manner.",
     "type": "video/mp4",
-    "instructions": "Custom instructions for Grok 4.1 (and potentially Gemini 3.0 Pro, Claude Sonnet 4.5 and/or ChatGPT-5",
+    "instructions": "Custom instructions for Grok 4.1 (and potentially Gemini 3.0 Pro, Claude Sonnet 4.5 and/or ChatGPT-5)",
     "metadata": {
         "duration": "unknown (parse from source)",
         "ephemeral": true,
